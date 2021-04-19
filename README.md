@@ -25,13 +25,8 @@ The goal of this analysis is to explore *what makes a great board game*? To do t
 
 ## File Descriptions <a name="files"></a>
 
-The project has 2 main folders and a readme file. A breakdown of both of these folders are as below:
+The project has one Jupyter Notebook file and a README file.  A copy of the original dataset posted [here](https://www.kaggle.com/gabrio/board-games-dataset) was downloaded into my local machine to read and analyse. 
 
-1. Notebooks
-  - Board Games Dataset Exploratory Analysis
-2. Data
-  - database.sqlite
-    
 All code required for this project is encapsulated within the notebook cells including util functions. Markdown cells and comments are used to thoroughly describe my analysis.
 
 ## Results<a name="results"></a>
