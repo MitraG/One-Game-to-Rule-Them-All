@@ -35,6 +35,6 @@ The main findings of the code can be found at my Medium blogpost available [here
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-I'd like to acknowledge Gabriele Baldassarrre for publicly providing an amazing dataset with high potential for all kinds of data science experiments. His exploratory analysis and other's contributions can be found [here](https://www.kaggle.com/gabrio/board-games-dataset/code).
+I'd like to acknowledge Gabriele Baldassarrre for publicly providing an amazing dataset with high potential for all kinds of data science experiments. I was very much inspired by his exploratory analysis and other users' contributions, which can be found [here](https://www.kaggle.com/gabrio/board-games-dataset/code).
 
 I'd also like to thank to Josh Bernhard for his detailed lessons on conducting the CRISP-DM process and publishing our findings. You can find more of his interesting work [here](https://medium.com/@josh_2774).
