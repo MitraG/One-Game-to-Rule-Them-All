@@ -1,5 +1,5 @@
 # One Game to Rule Them All 
-A repository containing amy exploratory analysis of board games listed and rated in BoardGameGeek.
+A repository containing my exploratory analysis of board games listed and rated in BoardGameGeek.
 
 ### Table of Contents
 
